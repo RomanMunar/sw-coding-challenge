@@ -1,3 +1,11 @@
+# Quick start
+```bash
+git clone https://github.com/RomanMunar/sw-coding-challenge
+cd ./sw-coding-challenge
+yarn # Install deps
+yarn dev # Visit http://localhost:5173
+```
+
 ** Name: Roman Emmanuel Munar**
 
 ** Comments: ** 
